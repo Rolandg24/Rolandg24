@@ -1,16 +1,6 @@
-### Hi there 👋
+Passionate full-stack software developer with a background in project management, complemented by an expertise in audio engineering and media 
+production, who is now seeking a professional role as a junior developer. Adept at blending comprehensive software development skills with effective communication, problem-solving abilities, and collaborative teamwork honed in previous career.
 
-<!--
-**Rolandg24/Rolandg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For 5 years, I excelled in ensuring consistent audio quality and managing team projects, where I notably led an audio department, elevating our company's radio program from 3 stations to over 200 stations across the US, engaging over 800,000 listeners monthly. Over the last decade, I've honed my skills in the music industry, including music composition, sound design, and even a part-time role as a High School Percussion Educator. This experience underlined the significance of the need for high-quality audio software and the challenges in transitioning from the analog world to the digital. Inspired, I took the leap into software, realizing I wanted to be at the forefront of this change.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Coding
-- 🌱 I’m currently learning ... Software Development
-- 👯 I’m looking to collaborate on ... Apps
-- 🤔 I’m looking for help with ... Getting more coding practice
-- 💬 Ask me about ... Audio Engineering
-- 📫 How to reach me: ... e-mail provided
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a Musician
--->
+I'm excited to embark on this new journey, combining my passion for creativity with the power of software development to address real-world challenges. Let's connect and explore new possibilities together.
